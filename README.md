@@ -1,6 +1,8 @@
 # mafiahacks
 
-![m1](https://user-images.githubusercontent.com/82051128/128910812-f4e832af-4555-4578-9df5-31534481e98c.png) 
+<img src="images/m1.png" width="500"> <img src="images/md1.png" width="400">
+<img src="images/mw1.png" width="400">
+
 
 # Installation:
      1. git clone https://github.com/machine1337/mafiahacks.git
