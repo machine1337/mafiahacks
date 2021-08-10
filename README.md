@@ -11,11 +11,11 @@
 # Usage:
     Open Terminal And Then Type:  bash mafia.sh
 # Note:
-   1. Android Payload Extension ( target.apk)
-   2. Windows Payload Extension (target.exe)
-   3. Linux Payload Extension   (target.elf)
-   4. MacOS Payload Extension   (target.bin)
-   5. Apple_IOS Payload Extension (target.macho)
+    1. Android Payload Extension ( target.apk)
+    2. Windows Payload Extension (target.exe)
+    3. Linux Payload Extension   (target.elf)
+    4. MacOS Payload Extension   (target.bin)
+    5. Apple_IOS Payload Extension (target.macho)
    
 # Features:
     * You Can Create Payloads For Following OS:
