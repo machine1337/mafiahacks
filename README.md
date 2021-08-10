@@ -1,6 +1,6 @@
 # mafiahacks
 
-<img src="images/m1.png" width="500"> <img src="images/md1.png" width="400">
+<img src="images/m1.png" width="500"> <img src="images/md1.png" width="500">
 <img src="images/mw1.png" width="400">
 
 
