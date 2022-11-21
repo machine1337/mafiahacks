@@ -31,8 +31,3 @@
     3. More Obfuscation
     4. Termux Users will also use this tool.
     
-#  Follow Me On:
-    
-  1. https://www.facebook.com/pakhack01 
-  2. https://instagram.com/invisibleclay100 
-  3. https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ 
