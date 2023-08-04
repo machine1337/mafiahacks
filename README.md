@@ -4,6 +4,8 @@
 <img src="images/mw1.png" width="400">
 
 
+# Contact:- 
+    Telegram:- https://t.me/machine1337
 # Installation:
      1. git clone https://github.com/machine1337/mafiahacks.git
      2. chmod +x mafia.sh
