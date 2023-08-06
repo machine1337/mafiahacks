@@ -30,24 +30,6 @@ echo -e ${YELLOW}"                         Coded By :  ${CP}Machine404          
 echo -e ${RED}"################################################################################\n"
    
 }
-
-echo -e -n ${CNC}"\n[*] Checking  Internet Connection \n"
-if nc -zw1 google.com 443; then
-  echo -e ${GREEN} "\n[ ✔ ] Internet.............${GREEN}[ working ]"
-  else
-  
-  echo ${RED}"No Internet Connection"
-  exit 1
-fi
-sleep 0.5
-function depend(){
-echo -e -n ${CNC}"\n[*] Checking dependencies configuration For Android \n"
-if nc -zw1 google.com 443; then
-  echo -e ${GREEN} "\n[ ✔ ] Internet.............${GREEN}[ working ]"
-  else
-  
-  echo ${RED}"No Internet Connection"
-  exit 1
 fi
 sleep 0.5
 which msfconsole > /dev/null 2>&1
