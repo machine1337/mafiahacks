@@ -8,7 +8,8 @@
     Telegram:- https://t.me/machine1337
 # Installation:
      1. git clone https://github.com/machine1337/mafiahacks.git
-     2. chmod +x mafia.sh
+     2. cd mafiahacks
+     3. chmod +x mafia.sh
 
 # Usage:
     Open Terminal And Then Type:  bash mafia.sh
